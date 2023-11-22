@@ -1,0 +1,13 @@
+p1 p2 p1 a a a a p2 p3 p1 p2 p2 p1 p3 p2 p1 p3 p1 p2 p3 p2 p2 p3
+f rt lr lr lr rh n n n n n n n n n n n n n n n n n
+p2 p3 p1 p1 p2 p3 p2 p1 p1 p2 p1 n p1 p1 p1 p3 p3 p1 p1 p2 p1 p1 p2
+a n n n p1 n n n p1 n n n n n p1 n n n p1 n n n a
+n p2 p1 n n n p1 n n n p1 a p1 n n n p2 n n n p2 p1 n
+n a e1 p1 p2 p3 p2 p1 p1 p2 p1 p1 p1 p1 p1 p3 p3 p1 p1 p2 e1 a n
+n a e1 n n n n n n n n e1 n n n n n n n n e1 a n
+n p1 e2 n p3 p1 p1 p2 p3 p2 n e1 n p2 p3 p1 p1 p2 p3 n e1 p2 n
+n a e2 n e2 n n n n n n e1 n n n n n n e2 n e2 a n
+n a e2 n e1 n n n n n n e1 n n n n n n e1 n e1 a n
+n p2 e1 n e1 n n n n n n n n n n n n n e2 n e1 p1 n
+n n n n e1 n n n n n n n n n n n n n e1 n n n n
+p1 p2 p3 p1 e1 n n n n n n n n n n n n n e1 p1 p3 p2 p1

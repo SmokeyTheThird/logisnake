@@ -1,0 +1,206 @@
+#palya {
+    margin: 0 auto;
+    border: 5px solid black;
+    border-spacing: 0;
+/*     -webkit-border-horizontal-spacing: 0;
+    -webkit-border-vertical-spacing: 0; */
+    background-image: url("img/palya.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#palya td {
+    margin: 0;
+    text-align: center;
+    border: 0;
+}
+
+.n{
+    background-image: none;
+    width: 50px;
+    height: 50px;
+}
+
+.p1{
+background-image:url("img/terep1.png");
+width: 50px;
+height: 50px;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.p2{
+background-image: url("img/terep2.png");
+width: 50px;
+height: 50px;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.p3{
+background-image: url("img/terep3.png");
+width: 50px;
+height: 50px;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.e1{
+    background-image: url("img/fold1.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.e2{
+    background-image: url("img/fold2.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.f{
+    background-image: url("img/zaszlo.png");
+    width: 50px;
+height: 50px;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+
+.a{
+    background-image: url("img/alma.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.lr{
+    background-image: url("img/test1.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ld{
+    background-image: url("img/kanyar2.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform: scaleX(-1);
+}
+
+.lu{
+    background-image: url("img/kanyar1.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform: scaleX(-1);
+}
+
+.ud{
+    background-image: url("img/fuggotest.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ur{
+    background-image: url("img/kanyar1.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* .dl{
+    background-image: url("img/kanyar1.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform: rotate(180deg);
+} */
+
+.dr{
+    background-image: url("img/kanyar2.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.lh{
+    background-image: url("img/fej.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform: scaleX(-1);
+}
+
+.rh{
+    background-image: url("img/fej.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.uh{
+    background-image: url("img/fuggofej.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.dh{
+    background-image: url("img/fuggofej.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform: rotate(180deg);
+}
+
+.lt{
+    background-image: url("img/farok.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform: scaleX(-1);
+}
+
+.rt{
+    background-image: url("img/farok.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ut{
+    background-image: url("img/fuggofarok.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.dt{
+    background-image: url("img/fuggofarok.png");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform: rotate(180deg);
+}
